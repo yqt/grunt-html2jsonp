@@ -1,0 +1,38 @@
+{
+  "name": "grunt-html2jsonp",
+  "description": "Compiles html templates to JSONP style",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "yqt",
+    "email": "yqt0221@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yqt/grunt-html2jsonp"
+  },
+  "bugs": {
+    "url": "https://github.com/yqt/grunt-html2jsonp/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/yqt/grunt-html2jsonp/blob/master/LICENSE"
+    }
+  ],
+  "main": "",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
