@@ -24,13 +24,10 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "scripts": {
-  },
-  "devDependencies": {
-
-  },
+  "scripts": {},
+  "devDependencies": {},
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin"
